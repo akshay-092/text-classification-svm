@@ -75,6 +75,4 @@ After running the script, you'll get:
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 ---
-
 Thank you for checking out the project! If you have any questions or feedback, don’t hesitate to reach out. Happy coding! 😊
-```
