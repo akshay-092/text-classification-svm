@@ -14,7 +14,7 @@ Welcome to the Text Classification with SVM project! 🎉 This project demonstra
 
 ## Overview
 
-In this project, we use a dataset containing user descriptions and their corresponding responses. The goal is to predict whether a user will respond based on their description. 
+In this project, a dataset containing user descriptions and their corresponding responses will be used. The goal is to predict whether a user will respond based on their description. 
 
 The main steps involved are:
 1. Data cleaning and preprocessing.
